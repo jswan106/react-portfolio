@@ -1,0 +1,209 @@
+{
+  "main": {
+    "name": "Jordan Swan",
+    "occupation": "Senior DevOps Engineer",
+    "description": "DevOps practitioner, Technology Evangelist, and all around Tech Guru",
+    "image": "UserProfileImage.jpeg",
+    "bio": "My name is Jordan, I'm a Senior DevOps Engineer. Currently I'm working at Academy Mortgage Corporation. I am an experienced Senior DevOps Engineer with a demonstrated history of building reliable automation. Ever since I have begun my journey through IT, I have always seen the value in being teachable and being willing to give all of your energy to learn and become a stronger IT professional. \n\nI honestly believe if you want something bad enough, you can make it happen. By clinging to that belief, I have been able to advance from an IT-Support Representative on the phone to a Senior DevOps Engineer in just 4 years.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "jswan@swantechsolutions.com",
+    "phone": "+8012565565",
+    "address": {
+      "street": "",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "840128"
+    },
+    "website": "https://jkswan.com",
+    "resumedownload": "https://jkswan.com/Downloads/Resume.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/jordan.swan.587/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jordan-k-swan/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/jswanny106",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/jswan106",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Curious about my skill level? Take a look at my rating of my expertise with different skills",
+    "certifications": [
+      {
+        "name": "SaltStack Certified Engineer",
+        "company": "SaltStack",
+        "issued": "Issued: October 2019 - No Expiration Date",
+        "description": "Credential ID: 7162E30B",
+        "link": "https://ssc.saltstack.com/search/?sscid=7162E30B"
+      },
+      {
+        "name": "CompTIA Network +",
+        "company": "CompTIA",
+        "issued": "Issued: September 2016 - September 2020",
+        "description": "Credential ID: KG4HPRJGEPR1120C",
+        "link": "https://www.certmetrics.com/comptia/public/verification.aspx?code=KG4HPRJGEPR1120C"
+      },
+      {
+        "name": "CompTIA Security +",
+        "company": "CompTIA",
+        "issued": "Issued: April 2017 - April 2020",
+        "description": "Credential ID: Q1JGG2Y8V89LV6SH",
+        "link": "https://www.certmetrics.com/comptia/public/verification.aspx?code=Q1JGG2Y8V89LV6SH"
+      },
+      {
+        "name": "NPM Solarwinds Certified Professional",
+        "company": "Solarwinds",
+        "issued": "Issued: May 2018 - May 2021",
+        "description": "Credential ID: 2157",
+        "link": "http://bcert.me/sfsbxyed"
+      }
+    ],
+    "work": [
+      {
+        "company": "Academy Mortgage Corporation",
+        "title": "Senior DevOps Engineer",
+        "years": "October 2020 - Present",
+        "description": "I am repsonsible for leading the DevOps team in building automation, CICD Pipelines, and evanglizing DevOps principals. I help lead application architecture discussions, manage source code repository health, and improve software development lifecycle processes."
+      },
+      {
+        "company": "",
+        "title": "DevOps Engineer",
+        "years": "August 2018 - October 2020",
+        "description": "As a DevOps Engineer at Academy, I am repsonsible for building the CICD pipelines for all applications, create reliable and dependable automation, manage Source Code Repository health, participate in application architecture discussions, and troubleshoot any application errors or issues."
+      },
+      {
+        "company": "",
+        "title": "NOC (Network Operation Center) Engineer",
+        "years": "September 2017 - July 2018",
+        "description": "As a NOC (Network Operations Center) Engineer at Academy, I was repsonsible for building all monitoring systems, for network devices, servers, applications, and logs. I was also expected to setup and govern alerting based on montioring metrics. I was responsible for maintaining and improving the following systems: SolarWinds NPM SAM SRM IPAM NCM and VMAN, Splunk Enterprise, and ExtraHop."
+      },
+      {
+        "company": "",
+        "title": "ITS Systems Administrator",
+        "years": "December 2016 - September 2017",
+        "description": "As a System Administrator at Academy, I was repsonsible for doing all of the company's Identity and Access Management daily tasks, building Role Based Access Control, managing our MDM (Mobile Device Management) system, and building Active Directory automation."
+      },
+      {
+        "company": "",
+        "title": "Help Desk Technician",
+        "years": "December 2016 - September 2017",
+        "description": "As a Help Desk Technician at Academy, I was repsonsible for taking support phone calls from Academy's employees, and assisting with any technical issues that they were experiencing. This required strong troubleshooting methodology in order to quickly resolve issues."
+      },
+      {
+        "company": "The Church of Jesus Christ of Latter-Day Saints",
+        "title": "Customer Service Representative",
+        "years": "February 2016 - May 2016",
+        "description": "As a Customer Service Representative at The Church of Jesus Christ of Latter-Day Saints, I was on their network connectivity support team, so I would take calls from the different branches on their global network, and I would assist in fixing their Firewall, Router, or Switch configurations."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Azure DevOps",
+        "level": "100%"
+      },
+      {
+        "name": "Docker",
+        "level": "80%"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "65%"
+      },
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "SaltStack",
+        "level": "85%"
+      },
+      {
+        "name": "PowerShell Scripting",
+        "level": "95%"
+      }
+    ],
+    "favtechcomment": "I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "favoritetechnology": [
+      {
+        "name": "SaltStack",
+        "imagename": "images/tech/saltstack.jpg",
+        "description": "I use SaltStack for all configuration management, event-driven automation, and infrastructure orchestration. I've also built a centralized Let Encrypt Management solution using SaltStack."
+      },
+      {
+        "name": "Azure DevOps",
+        "imagename": "images/tech/azuredevops.jpg",
+        "description": "I use Azure DevOps daily to build and configure CICD Pipelines, manage Git Repository health, and to work in sprints in an Agile Environment. I am very skilled in Azure DevOps."
+      },
+      {
+        "name": "Docker",
+        "imagename": "images/tech/docker.jpg",
+        "description": "I really enjoy \"Dockerizing\" applications. The concept of containerization is amazing and I love seeing the posibilities that it opens up. Docker is very high on my list of favorites."
+      },
+      {
+        "name": "Kubernetes",
+        "imagename": "images/tech/kubernetes.jpg",
+        "description": "Kubernetes always amazes me. The incredible ease at which you can scale out applications using Docker and Kubernetes is truly amazing, and I'm excited to learn more about it."
+      },
+      {
+        "name": "Git",
+        "imagename": "images/tech/git.jpg",
+        "description": "I use Git for all of my projects. I have experience in converting repositories from HG into Git with commit history intact. I manage the Git repositories health at my current company."
+      },
+      {
+        "name": "Azure",
+        "imagename": "images/tech/azure.jpg",
+        "description": "I have experience with managing multiple Azure Subscriptions, as well as using automation in Azure DevOps to automatically deploy service to Azure. I continously learn about Azure."
+      },
+      {
+        "name": "Python",
+        "imagename": "images/tech/python.jpg",
+        "description": "I use Python to create various scripts and microservices to help automate our systems while helping our infrastructure teams be more directly involved in automation."
+      },
+      {
+        "name": "Splunk",
+        "imagename": "images/tech/splunk.jpg",
+        "description": "I use Splunk for log data aggregation so that I can keep an eye on the status of our applications, as well as build usage statistics. I've helped manage a Splunk Enterprise Cluster."
+      },
+      {
+        "name": "PowerShell",
+        "imagename": "images/tech/powershell.jpg",
+        "description": "I use PowerShell for most of my scripting needs. I use it in a variety of situations, often in tandom with SaltStack to get the automation I desire. PowerShell is my first love."
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Jordan is nothing short of a miracle worker. There has never been a problem the Swan Machine can't solve. You will never hear Jordan say \"That's not my job\" or \"I don't have time\". He attacks every situation with a positive and fun attitude. He is always available to assist whether it is after hours or even when he has been on vacation. Jordan always puts the team first. I consider myself lucky to have Jordan on the team.",
+        "user": "Stacy H"
+      },
+      {
+        "text": "Jordan is one of the most reliable people that I've had the pleasure of working with. He is not only an expert at his job, but other areas as well. Even when Jordan is busy working on 100 other things, he always makes time to help me with whatever I need, even if that means staying late at the office or working on his day off. You will never hear Jordan say the words \"I don't know\" or \"I'm busy\", he will always find a way to solve a problem and make time for you. I am very grateful to have him be a part of our ITS team and I strongly believe that he brings irreplaceable value to Academy.",
+        "user": "Dmitriy B"
+      }
+    ]
+  }
+}

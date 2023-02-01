@@ -32,7 +32,11 @@ function App() {
     getResumeData();
   }, []);
 
-  ReactGA.pageview(window.location.pathname + window.location.search);
+  useEffect(() => {
+    ReactGA.pageview(window.location.pathname + window.location.search);
+  }, [window.location.pathname + window.location.search]);
+
+
   return (
     <div className="App">
       <Header data={resumeData.main}/>

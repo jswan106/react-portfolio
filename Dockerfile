@@ -4,14 +4,14 @@
 FROM node:18-alpine as builder
 
 # install and cache app dependencies
-COPY package.json package-lock.json ./
-RUN npm install --only=prod&& mkdir /app && mv ./node_modules ./app
+COPY package.json yarn.lock ./
+RUN yarn install --only=prod&& mkdir /app && mv ./node_modules ./app
 
 WORKDIR /app
 
 COPY . .
 
-RUN npm run build
+RUN yarn run build
 
 
 # ------------------------------------------------------

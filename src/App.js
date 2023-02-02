@@ -28,13 +28,17 @@ function App() {
   }
 
   useEffect(() => {
-    ReactGA.initialize('UA-180696778-11');
+    if (process.env.NODE_ENV === 'production') {
+      ReactGA.initialize('UA-180696778-1');
+    }
     getResumeData();
   }, []);
 
   useEffect(() => {
-    ReactGA.pageview(window.location.pathname + window.location.search);
-  }, [window.location.pathname + window.location.search]);
+    if (process.env.NODE_ENV === 'production') {
+      ReactGA.pageview(window.location.pathname + window.location.hash + window.location.search);
+    }
+  }, [window.location.pathname + window.location.hash + window.location.search]);
 
 
   return (
